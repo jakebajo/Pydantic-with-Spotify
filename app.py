@@ -75,4 +75,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-
+## Open up command prompt and navigate to the directory where app.py exists
+## run set FLASK_APP=app.py
+## run Flask
+## navigate to http://127.0.0.1:5000/
